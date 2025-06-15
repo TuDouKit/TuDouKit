@@ -5,9 +5,9 @@
 
 浏览器指纹识别 是通过收集用户的浏览器、操作系统和硬件特征（如 User-Agent、语言、屏幕分辨率、字体、插件、时区、WebGL 等）生成的唯一识别码。网站或第三方可以利用这一机制来追踪用户行为、分析身份、实施广告定向，甚至进行钓鱼或欺诈。
 
-为了保护隐私、进行广告防追踪、自动化测试或跨境营销，土豆浏览器（<a href="https://www.tudoukit.com">TuDouKit</a>） 提供了比原生 Chromium 更强的匿名性和多环境管理能力。
+为了保护隐私、进行广告防追踪、自动化测试或跨境营销，<a href="https://www.tudoukit.com">土豆浏览器</a>（<a href="https://www.tudoukit.com">TuDouKit</a>） 提供了比原生 Chromium 更强的匿名性和多环境管理能力。
 
-<a href="https://www.tudoukit.com">TuDouKit</a>（土豆浏览器）核心优势
+<a href="https://www.tudoukit.com">TuDouKit</a>（<a href="https://www.tudoukit.com">土豆浏览器</a>）核心优势
 相较于原始的 Chromium 浏览器，<a href="https://www.tudoukit.com">TuDouKit</a> 拥有以下两大核心优势：
 
 ✅ 支持在一台设备上创建多个浏览器指纹环境，可模拟多个独立用户。
@@ -19,7 +19,7 @@
 前往 <a href="https://www.tudoukit.com">TuDouKit</a> 官方网站 或其 GitHub 发布页 下载最新版安装包，适用于 Windows 7 及以上系统。
 
 2. 创建新的浏览器环境
-打开 土豆浏览器 <a href="https://www.tudoukit.com">TuDouKit</a> 应用，点击“创建浏览器”。
+打开 <a href="https://www.tudoukit.com">土豆浏览器</a> <a href="https://www.tudoukit.com">TuDouKit</a> 应用，点击“创建浏览器”。
 在弹出的配置窗口中，你可以自定义指纹参数，或者选择使用默认推荐配置。
 
 3. 启动指纹浏览器
@@ -46,7 +46,9 @@ Puppeteer
 我们也提供了官方自动化脚本示例，详见：GitHub Automation Demo。
 
 参与和支持 <a href="https://www.tudoukit.com">TuDouKit</a>
-<a href="https://www.tudoukit.com">TuDouKit</a>（土豆浏览器） 仍在积极开发中，欢迎加入我们：
+
+
+<a href="https://www.tudoukit.com">TuDouKit</a>（<a href="https://www.tudoukit.com">土豆浏览器</a>） 仍在积极开发中，欢迎加入我们：
 
 ⭐ 贡献代码或提交 Issue，帮助修复 Bug 与添加新功能。
 
