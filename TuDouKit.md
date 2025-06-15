@@ -13,3 +13,7 @@
 🔄 多环境切换，适配各种业务需求
 
 无论你是隐私保护爱好者，还是从事数据运营、营销业务，<a href="https://www.tudoukit.com">TuDouKit</a> 都是不可或缺的浏览工具。
+
+进入<a href="https://www.tudoukit.com">土豆浏览器</a>官网:
+
+<a href="https://www.tudoukit.com">https://www.tudoukit.com</a>
