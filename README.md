@@ -32,7 +32,7 @@
 系统信息	操作系统（User-Agent 中显示）、CPU 核心数、内存、设备名称、MAC 地址等
 浏览器参数	浏览器版本、User-Agent、自定义代理（支持默认/不使用/自定义代理）
 语言与时区	navigator.language、navigator.languages、new Date() 时区，可基于 IP 匹配
-Web相关API	WebRTC（本地 IP 遮蔽）、Geolocation 经纬度模拟、Canvas 和 WebGL 伪装像素图、AudioContext 音频指纹扰动、Speech Voices 等
+Web相关API	WebRTC（本地 IP 隐藏,防止穿透）、Geolocation 经纬度模拟、Canvas 和 WebGL 伪装像素图、AudioContext 音频指纹扰动、Speech Voices 等
 显示设置	屏幕分辨率（screen.width/screen.height）、字体（支持字体列表随机化）
 其他特征	ClientRects、Do Not Track 状态、SSL 签名信息、端口扫描保护、硬件加速控制、自动化防检测（如 navigator.webdriver=false）等
 
