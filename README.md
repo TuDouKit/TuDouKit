@@ -1,5 +1,5 @@
 简介
-TuDouKit（土豆浏览器） 是基于 Chromium 引擎开发的高匿名度指纹浏览器，兼容 Windows 7 及以上操作系统，未来还将支持 macOS、Android、Linux 等多种平台。
+<a href="https://www.tudoukit.com">TuDouKit</a>（土豆浏览器） 是基于 Chromium 引擎开发的高匿名度指纹浏览器，兼容 Windows 7 及以上操作系统，未来还将支持 macOS、Android、Linux 等多种平台。
 
 浏览器指纹识别 是通过收集用户的浏览器、操作系统和硬件特征（如 User-Agent、语言、屏幕分辨率、字体、插件、时区、WebGL 等）生成的唯一识别码。网站或第三方可以利用这一机制来追踪用户行为、分析身份、实施广告定向，甚至进行钓鱼或欺诈。
 
